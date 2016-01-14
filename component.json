@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "repos": "https://github.com/hqlcs/validate-default",
+    "protocol":"github:hqlcs/validate-default",
+    "description": "A validate-default",
+    "name": "validate-default",
+    "main": "validate-default.js"
+}
