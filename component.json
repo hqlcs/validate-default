@@ -4,5 +4,8 @@
     "protocol":"github:hqlcs/validate-default",
     "description": "A validate-default",
     "name": "validate-default",
-    "main": "validate-default.js"
+    "main": "validate-default.js",
+    "dependencies" : [
+    	"jquery-validation"
+    ]
 }
